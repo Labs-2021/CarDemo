@@ -46,7 +46,7 @@
           <div v-show="show">
             <v-divider></v-divider>
             <v-card-text>
-              <strong>Seed: </strong><span v-if="seed">{{seed.phrase}}</span>
+              <strong>Seed: </strong><span v-if="seed">Solicite ao Administrador</span>
             </v-card-text>
           </div>
         </v-expand-transition>
